@@ -33,7 +33,7 @@ Publications
 </h2>
 
 1. [The Effect of Patent Protection on Firms’ Market Value: The Case of The Renewable Energy Sector](https://www.sciencedirect.com/science/article/pii/S1364032117311358?casa_token=imXGsyWcNMUAAAAA:iEQOgQ-9fIQKtYIt5mq2W6jzpdrF6Eb-3y3VIUZUjFzcltbMQBgV9w72t0vlh86rB6RHYk_AilQ) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])<br/>
-&nbsp; - *Renewable and Sustainable Energy Reviews (2018)*
+&nbsp; - *Renewable and Sustainable Energy Reviews* (2018), 82, 4309-4319.
 
 
 [aaron]: https://sites.duke.edu/ronniechatterji/
