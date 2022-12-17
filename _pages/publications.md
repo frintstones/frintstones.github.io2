@@ -10,7 +10,7 @@ Working Papers
 </h2>
 
 
-"Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure"
+"Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure"<br/>
    -with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim] - Reject and resubmit decision at *Strategic Management Journal*.
 
 
