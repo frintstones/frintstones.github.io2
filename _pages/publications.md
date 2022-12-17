@@ -32,10 +32,7 @@ Work in Progress
 Publications
 </h2>
 
-1. Entrepreneurial Failure and Re-entry : The Role of Prior Financing Experience (with Hyejoon Jung and [Wonjoon Kim][wjkim])<br/>
-&nbsp; - Data Collection
-
-2. [The effect of patent protection on firms’ market value: The case of the renewable energy sector](/files/pdf/Migrant.pdf) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])<br/>
+1. [The effect of patent protection on firms’ market value: The case of the renewable energy sector](/files/dk_pub_1.pdf) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])<br/>
 &nbsp; - **Renewable and Sustainable Energy Reviews (2018)**.
 
 
