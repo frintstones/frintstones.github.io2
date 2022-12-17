@@ -11,11 +11,11 @@ Working Papers
 
 
 1. Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])<br/>
-&nbsp; - Reject and resubmit decision at *Strategic Management Journal*.
+&nbsp; + Reject and resubmit decision at *Strategic Management Journal*.
 
 
 2. COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])<br/>
-&nbsp; - 1st round revise and resubmit decision at *Strategic Entrepreneurship Journal*.
+&nbsp; + 1st round revise and resubmit decision at *Strategic Entrepreneurship Journal*.
 
 
 
