@@ -32,7 +32,7 @@ Work in Progress
 Publications
 </h2>
 
-1. [The effect of patent protection on firms’ market value: The case of the renewable energy sector](https://www.sciencedirect.com/science/article/pii/S1364032117311358?casa_token=imXGsyWcNMUAAAAA:iEQOgQ-9fIQKtYIt5mq2W6jzpdrF6Eb-3y3VIUZUjFzcltbMQBgV9w72t0vlh86rB6RHYk_AilQ)) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])<br/>
+1. [The effect of patent protection on firms’ market value: The case of the renewable energy sector](https://www.sciencedirect.com/science/article/pii/S1364032117311358?casa_token=imXGsyWcNMUAAAAA:iEQOgQ-9fIQKtYIt5mq2W6jzpdrF6Eb-3y3VIUZUjFzcltbMQBgV9w72t0vlh86rB6RHYk_AilQ) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])<br/>
 &nbsp; - *Renewable and Sustainable Energy Reviews (2018)*
 
 
