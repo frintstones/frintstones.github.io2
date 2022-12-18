@@ -41,6 +41,7 @@ My research interests are focused on deepening the understanding of **how techno
 &nbsp; -Another stream of my research focuses on how technological factors could be the competitive advantages of start-ups by looking at entrepreneurs' behavioral responses to previous start-up failures. 
 
 You can find my research at [research](https://frintstones.github.io/publications/) section of my webpage.<br/>
+
 Feel free to contact me via email if you like my research.
 
 ------
