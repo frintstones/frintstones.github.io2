@@ -8,29 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<style type="text/css">
-#touch {
- background-color: #bbb;
- padding: .4em;
- -moz-border-radius: 5px;
- -webkit-border-radius: 5px;
- border-radius: 6px;
- color: #fff;
- font-size: 14px;
- text-decoration: none;
- border: none;
-}
-#touch:hover {
- border: none;
- background: orange;
- box-shadow: 0px 0px 1px #777;
-}
-</style>
 
-<style type="text/css">
-a:link {text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>
 
 ------
 
