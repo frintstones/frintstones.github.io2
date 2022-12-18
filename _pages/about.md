@@ -38,7 +38,7 @@ I’m currently a Postdoctoral Fellow at the Korea Advanced Institute of Science
 
 My research interests are focused on deepening the understanding of **how technological advancements affect entrepreneurial activity and start-up performance.**<br/>
 
-&nbsp;  (1) One of my research streams is to demonstrate a new perspective for understanding entrepreneurial activity based on rapid advancements in &nbsp; digital platforms and the surge in the adoption of automation technology.<br/> 
+&nbsp;  (1) One of my research streams is to demonstrate a new perspective for understanding entrepreneurial activity based on rapid advancements in digital platforms and the surge in the adoption of automation technology.<br/> 
 &nbsp; (2) Another stream of my research focuses on how technological factors could be the competitive advantages of start-ups by looking at entrepreneurs' &nbsp; behavioral responses to previous start-up failures. 
 
 You can find my research at [research](https://frintstones.github.io/publications/) section of my webpage.<br/>
