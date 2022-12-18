@@ -19,9 +19,8 @@ You can find my research at [research](https://frintstones.github.io/publication
 
 Feel free to contact me via email if you like my research.
 
-- My research interests broadly lie in innovation and entrepreneurship. 
-  - I have conducted studies on industry dynamics, firm's innovation performance, and influence of socio-economic factors on entrepreurial activities.
-  - Recently, I am also interested in the economics of digitiztion and AI. 
-  - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.
+- My research interests are focused on deepening the understanding of **how technological advancements affect entrepreneurial activity and start-up performance.** 
+  - (1) One of my research streams is to demonstrate a new perspective for understanding entrepreneurial activity based on rapid advancements in digital platforms and the surge in the adoption of automation technology.
+  - (2) Another stream of my research focuses on how technological factors could be the competitive advantages of start-ups by looking at entrepreneurs' behavioral responses to previous start-up failures. 
 
 ------
