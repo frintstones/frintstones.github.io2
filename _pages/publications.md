@@ -27,6 +27,7 @@ Working Papers
 
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim]) 
   - *Reject and resubmit*
+  -
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim]) 
   - *Reject and resubmit*
 
