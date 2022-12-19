@@ -9,6 +9,7 @@ title: "Research"
 Working Papers
 </h2>
 
+<! -- If you
 
 1. **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])<br/>
 &nbsp; - *Reject and resubmit*
@@ -23,10 +24,16 @@ Working Papers
 &nbsp; - *Revise and resubmit (1st Round)*
 
 5. **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
-&nbsp; - Under review at *Small Business Economics*
+&nbsp; - Under review at *Small Business Economics* -->
 
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
-  - *Reject and resubmit*<br>
+  - *Reject and resubmit*
+
+- **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])<br/>
+  - *Revise and resubmit (1st Round)*
+
+- **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job market paper)<br/>
+  - *Ready to submit*
 
 <h2 id="wi">
 Work in Progress
