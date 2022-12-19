@@ -11,14 +11,23 @@ Working Papers
 
 
 1. **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])<br/>
-&nbsp; - Reject and resubmit decision at *Strategic Management Journal*
+&nbsp; - *Reject and resubmit*
 
 2. **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])<br/>
-&nbsp; - 1st round revise and resubmit decision at *Strategic Entrepreneurship Journal*
+&nbsp; - *Revise and resubmit (1st Round)*
 
-3. **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
+3. **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job market paper)<br/>
+&nbsp; - *Ready to submit*
+
+4. **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])<br/>
+&nbsp; - *Revise and resubmit (1st Round)*
+
+5. **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
 &nbsp; - Under review at *Small Business Economics*
 
+- My research interests are focused on deepening the understanding of **how technological advancements affect entrepreneurial activity and start-up performance.** 
+  - One of my research streams is to demonstrate a new perspective for understanding entrepreneurial activity based on rapid advancements in digital platforms and the surge in the adoption of automation technology.
+  - Another stream of my research focuses on how technological factors could be the competitive advantages of start-ups by looking at entrepreneurs' behavioral responses to previous start-up failures. 
 
 <h2 id="wi">
 Work in Progress
