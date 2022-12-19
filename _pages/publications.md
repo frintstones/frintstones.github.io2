@@ -15,7 +15,7 @@ Working Papers
   - *Revise and resubmit (1st Round)*<br> <br/>
 - **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job Market Paper)
   - *Ready to submit*<br> <br/>
-- **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and Dennis Haemin Park)
+- **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and [Dennis Haemin Park][dennis])
   - *Under review*<br> <br/>
 - **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
   - *Under review*<br> <br/>
@@ -40,3 +40,4 @@ Publications
 [wjkim]: https://wjkim.kaist.ac.kr/
 [hy]: http://hyoun.me/
 [namil]: https://namilkim.github.io/
+[dennis]: https://sites.google.com/view/hdp323?pli=1
