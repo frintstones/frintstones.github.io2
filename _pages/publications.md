@@ -9,6 +9,16 @@ title: "Research"
 Working Papers
 </h2>
 
+- My research interests broadly lie in innovation and entrepreneurship. 
+  - I have conducted studies on industry dynamics, firm's innovation performance, and influence of socio-economic factors on entrepreurial activities.
+  - Recently, I am also interested in the economics of digitiztion and AI. 
+  - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.
+<br>
+<br>
+- You can find my research at the [research](./research) section of my webpage or [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ).
+
+- Feel free to contact me via email below if you like my research.
+
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
   - *Reject and resubmit*
 
