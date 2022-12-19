@@ -25,9 +25,9 @@ Working Papers
 5. **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
 &nbsp; - Under review at *Small Business Economics*
 
-- My research interests are focused on deepening the understanding of **how technological advancements affect entrepreneurial activity and start-up performance.** 
-  - One of my research streams is to demonstrate a new perspective for understanding entrepreneurial activity based on rapid advancements in digital platforms and the surge in the adoption of automation technology.
-  - Another stream of my research focuses on how technological factors could be the competitive advantages of start-ups by looking at entrepreneurs' behavioral responses to previous start-up failures. 
+- **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim]) 
+  - *Reject and resubmit*
+ 
 
 <h2 id="wi">
 Work in Progress
