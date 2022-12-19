@@ -10,9 +10,8 @@ Working Papers
 </h2>
 
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
-  - *Reject and resubmit*
+  - *Reject and resubmit* <br><br>
   
-
 - **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
   - *Revise and resubmit (1st Round)*
 
