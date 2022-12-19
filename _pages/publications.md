@@ -9,20 +9,16 @@ title: "Research"
 Working Papers
 </h2>
 
-- **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])<br/>
-  - *Reject and resubmit*
-
-- **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])<br/>
-  - *Revise and resubmit (1st Round)*
-
-- **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job Market Paper)<br/>
-  - *Ready to submit*
-
-- **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and Dennis Haemin Park)<br/>
-  - *Under review*
-
+- **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
+  - *Reject and resubmit*<br> <br/>
+- **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
+  - *Revise and resubmit (1st Round)*<br> <br/>
+- **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job Market Paper)
+  - *Ready to submit*<br> <br/>
+- **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and Dennis Haemin Park)
+  - *Under review*<br> <br/>
 - **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
-  - *Under review*
+  - *Under review*<br> <br/>
 
 <h2 id="wi">
 Work in Progress
