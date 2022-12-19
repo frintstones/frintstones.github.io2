@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download a PDF of my CV [here](/files/DAEHYUNKIM_CV_wj.pdf).
+You can download a PDF of my CV [here](/files/DAEHYUNKIM_CV.pdf).
