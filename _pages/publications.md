@@ -38,7 +38,7 @@ I am **Namil Kim**, an associate professor at the [School of Management](https:/
 - My research interests broadly lie in innovation and entrepreneurship. 
   - I have conducted studies on industry dynamics, firm's innovation performance, and influence of socio-economic factors on entrepreurial activities.
   - Recently, I am also interested in the economics of digitiztion and AI. 
-  - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.<br>
+  - Specifically some of my current working projects discuss how digitization and AI changes decision-making, knowledge discovery, collaborative works, group discussions and new product usages.
 
 - You can find my research at the [research](./research) section of my webpage or [google scholar](https://scholar.google.com/citations?user=FvPXxs0AAAAJ).
 
