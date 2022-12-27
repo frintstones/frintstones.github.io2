@@ -2,12 +2,12 @@
 permalink: /publications/
 title: "Research"
 ---
-
+### Research
  [Working Papers](#wp) &nbsp; &nbsp; - &nbsp; &nbsp; [Work in Progress](#wi) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pub)
 
-<h2 id="wp">
+<h4 id="wp">
 Working Papers
-</h2>
+</h4>
 
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
   - *Reject and resubmit*<br> <br/>
@@ -20,18 +20,18 @@ Working Papers
 - **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
   - *Under review*<br> <br/>
 
-<h2 id="wi">
+<h4 id="wi">
 Work in Progress
-</h2>
+</h4>
 
 - **Labor Mobility Barrier and Corporate Venture Capital: Evidence from Inevitable Disclosure Doctrine**<br/> 
   - *Work in Progress (Data analysis)*<br> <br/>
 - **Entrepreneurial Failure and Re-entry : The Role of Prior Financing Experience** (with Hyejoon Jung and [Wonjoon Kim][wjkim])
   - *Work in Progress (Data analysis)*<br> <br/>
 
-<h2 id="pub">
+<h4 id="pub">
 Publications
-</h2>
+</h4>
 
 - [The Effect of Patent Protection on Firms’ Market Value: The Case of The Renewable Energy Sector](https://www.sciencedirect.com/science/article/pii/S1364032117311358?casa_token=imXGsyWcNMUAAAAA:iEQOgQ-9fIQKtYIt5mq2W6jzpdrF6Eb-3y3VIUZUjFzcltbMQBgV9w72t0vlh86rB6RHYk_AilQ) (with [Namil Kim][namil] and [Wonjoon Kim][wjkim])
   - *Renewable and Sustainable Energy Reviews* (2018), 82, 4309-4319.
