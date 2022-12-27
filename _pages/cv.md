@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+### CV
 You can download a PDF of my CV [here](/files/DAEHYUNKIM_CV.pdf).
