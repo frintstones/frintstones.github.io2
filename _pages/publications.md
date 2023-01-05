@@ -13,7 +13,7 @@ Working Papers
   - *Reject and resubmit*<br> <br/>
 - **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
   - *Revise and resubmit (1st Round)*<br> <br/>
-- **The Emergence of C2C Platform and Entrepreneurial Activity: A Quasi-Experimental Study of Craigslist** (Job Market Paper)
+- **How Online Platforms Address Institutional Failures: The Case of Craigslist in Lowering Barriers to Entrepreneurship** (with [Namil Kim][namil], and Yongwook Paik)
   - *Ready to submit*<br> <br/>
 - **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and [Dennis Haemin Park][dennis])
   - *Under review*<br> <br/>
