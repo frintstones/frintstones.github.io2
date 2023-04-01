@@ -11,8 +11,8 @@ Working Papers
 
 - **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
   - *Reject and resubmit*<br> <br/>
-- **COVID-19, Digitization, and Entrepreneurship: Evidence from the Current Population Survey** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
-  - *Revise and resubmit (1st Round)*<br> <br/>
+- **Shadow of Rapid Adoption of Automation Technology during COVID-19: From Job Loss to Entrepreneurship** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
+  - *Under review*<br> <br/>
 - **How Online Platforms Address Institutional Failures: The Case of Craigslist in Lowering Barriers to Entrepreneurship** (with [Namil Kim][namil], and Yongwook Paik)
   - *Ready to submit*<br> <br/>
 - **Anti-Labor Environments And Employee Entrepreneurship: Evidence From Right-To-Work Laws** (with [Namil Kim][namil], and [Dennis Haemin Park][dennis])
