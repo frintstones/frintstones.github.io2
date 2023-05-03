@@ -9,7 +9,7 @@ title: ""
 Working Papers
 </h3>
 
-- **Entrepreneurial Failure and New Start-up Performance: The Role of Entrepreneur’s Behavior Changed after Previous Start-up Failure** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
+- **Unpacking the Entrepreneurial Process after Failure: The Role of Attribution and Behavioral Responses in Technology-Based Startups** (with [Aaron Chatterji][aaron] and [Wonjoon Kim][wjkim])
   - *Reject and resubmit*<br> <br/>
 - **Shadow of Rapid Adoption of Automation Technology during COVID-19: From Job Loss to Entrepreneurship** (with Taekyun Kim, [Wonjoon Kim][wjkim], and [Hyejin Youn][hy])
   - *Under review*<br> <br/>
@@ -19,6 +19,9 @@ Working Papers
   - *Under review*<br> <br/>
 - **COVID-19 and Minority Entrepreneurship: Evidence from the Kauffman Microdata** (with Taekyun Kim, and [Wonjoon Kim][wjkim])<br/>
   - *Under review*<br> <br/>
+- **Are Researchers More Likely To Succeed When They Start a Technology-Based Startup?** (with Jeoungbong Han, and [Wonjoon Kim][wjkim])<br/>
+  - *Under review*<br> <br/>
+
 
 <h3 id="wi">
 Work in Progress
@@ -26,7 +29,7 @@ Work in Progress
 
 - **Labor Mobility Barrier and Corporate Venture Capital: Evidence from Inevitable Disclosure Doctrine**<br/> 
   - *Work in Progress (Data analysis)*<br> <br/>
-- **Entrepreneurial Failure and Re-entry : The Role of Prior Financing Experience** (with Hyejoon Jung and [Wonjoon Kim][wjkim])
+- **Understanding the Effects of Government Matching Funds on Tech Start-Ups to Design Better Entrepreneurship Policy** (with World Bank Group)
   - *Work in Progress (Data analysis)*<br> <br/>
 
 <h3 id="pub">
